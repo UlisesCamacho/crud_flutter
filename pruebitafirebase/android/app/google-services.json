@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "676694967604",
+    "project_id": "testcitoflutter",
+    "storage_bucket": "testcitoflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676694967604:android:a7bd538d4253d0d2601161",
+        "android_client_info": {
+          "package_name": "com.algoqueponer.pruebitafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676694967604-16s6ht88u9gfrtl7s2vkg61cv79k5373.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtR0tJsl-1vSwhcEyBviX-aggnjkOGdw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676694967604-16s6ht88u9gfrtl7s2vkg61cv79k5373.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
